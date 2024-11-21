@@ -1,26 +1,70 @@
-<h1 align="">Hi 👋, I'm Esse Jacques DANSOMON</h1>
-<h3 align="">A passionate Web and Mobile developer from Africa</h3>
+# 👋 Hi, I'm **Esse Jacques** (@ejdev)  
 
-- 🔭 I’m currently working as Web and Mobile at Developper [Agence Cauris](agencecauris.com)
+🚀 **Software Engineer & DevSecOps Specialist** with 4+ years of experience in designing, developing, and deploying high-quality software solutions. My passion lies in creating scalable, secure, and efficient applications that drive innovation and business transformation.
 
-- And i work too as Web Developper since April 2021 at at [Noisy Digital](noisydigital.com)
+---
 
-- 👨‍💻 All of my projects are available at [http://essejacques.me/(https://essejacques.me/)
+## 🌟 **About Me**
 
-- 💬 Ask me about **symfony, srping, flutter, Angular**
+- 🌍 Based in Dakar, Senegal, with global experience in software engineering for leading companies.  
+- 🎯 Skilled in both **frontend** and **backend** development, mobile solutions, and cloud-native architectures.  
+- 💡 Avid problem solver, leveraging technologies like **AI/ML**, **NLP**, and **automation** to build impactful software.  
 
-- 📫 How to reach me **essedansomon@gmail.com**
+---
 
-- 📄 Know about my experiences [https://essejacques.me](https:///essejacques.me)
+## 🔧 **Technical Skills**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/esse jacques dansomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esse jacques dansomon" height="30" width="40" /></a>
-<a href="https://instagram.com/jacques_dems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacques_dems" height="30" width="40" /></a>
-<a href="https://dribbble.com/jacques dansomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jacques dansomon" height="30" width="40" /></a>
-<a href="https://discord.gg/hunterjack01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hunterjack01" height="30" width="40" /></a>
-</p>
+### **Languages & Frameworks**
+- **Frontend:** JavaScript (React, Angular, Next.js), HTML/CSS, Material UI  
+- **Backend:** Java (Spring Boot), Python (Django, Flask), Node.js (NestJS, Express)  
+- **Mobile:** Flutter, React Native, SwiftUI  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### **DevOps & Cloud**
+- **Platforms:** AWS, GCP, DigitalOcean  
+- **Tools:** Docker, Kubernetes, CI/CD (GitLab, Jenkins), Terraform, Ansible  
+- **Orchestration:** Spring Cloud, Kafka, RabbitMQ  
 
+### **Databases**
+- **SQL:** PostgreSQL, MySQL, MariaDB  
+- **NoSQL:** MongoDB, Elasticsearch  
+
+### **Specializations**
+- AI & ML: TensorFlow, Scikit-learn, Pandas, NumPy  
+- Test Automation: JUnit, Karate, Vegeta  
+- Project Management: Agile, Scrum (Jira, Trello)  
+
+---
+
+## 📂 **Featured Projects**
+
+### **🌐 Automation of the SENELEC Guichet Unique**
+- **Tech Stack:** Java (Spring), SOAP, Angular, PostgreSQL, Keycloak, CI/CD  
+- Reduced processing time by 40% with an automated system for utility management.
+
+### **📱 Mobile Bill Payment Application - AxonePay**
+- **Tech Stack:** Flutter, NestJS, PostgreSQL  
+- Achieved a 30% increase in user adoption within three months of launch.
+
+### **🏢 Process Digitalization for Banks**
+- **Tech Stack:** Spring Boot, Angular, AWS  
+- Developed scalable SaaS platforms, enhancing operational efficiency for financial institutions.
+
+### **🔥 Real-Time Smoke Detection System**
+- **Tech Stack:** Angular, NestJs, Python, MongoDB  
+- Improved safety measures with a real-time alert system, reducing response time to potential hazards.
+
+---
+
+## 🌍 **Open to Collaboration**
+
+- 🤝 Interested in working on **cutting-edge tech** such as **AI-driven platforms**, **microservices architecture**, and **DevOps pipelines**.  
+- 💻 Passionate about contributing to **open-source projects** and mentoring junior developers.  
+
+---
+
+## 📫 **How to Reach Me**
+
+- 🌐 Website: [essejacques.me](https://essejacques.me)  
+- 💼 LinkedIn: [linkedin.com/in/esse-jacques-dansomon](https://www.linkedin.com/in/esse-jacques-dansomon)  
+- 🐙 GitHub: [github.com/esse-jacques-dansomon](https://github.com/esse-jacques-dansomon)  
+- 📧 Email: [contact@essejacques.me](mailto:contact@essejacques.me)  
