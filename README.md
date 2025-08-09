@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Esse Jacques** (@ejdev)  
+# 👋 Hi, I'm **EJ** (@ejdev)  
 
 🚀 **Software Engineer & DevSecOps Specialist** with 4+ years of experience in designing, developing, and deploying high-quality software solutions. My passion lies in creating scalable, secure, and efficient applications that drive innovation and business transformation.
 
